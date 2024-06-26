@@ -1,6 +1,7 @@
 # Issues
 ```bash
 https://api.github.com/repos/nuxeo/nuxeo-web-ui/issues
+https://api.github.com/repos/nuxeo/nuxeo-web-ui/issues?page=2
 ```
 
 # Comments
