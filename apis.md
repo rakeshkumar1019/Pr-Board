@@ -7,6 +7,7 @@ https://api.github.com/repos/nuxeo/nuxeo-web-ui/issues?page=2
 # Comments
 ```bash
 https://api.github.com/repos/nuxeo/nuxeo-admin-console-ui/pulls/41/comments
+https://api.github.com/repos/nuxeo/nuxeo-web-ui/pulls/2249
 ```
 
 # Rows
